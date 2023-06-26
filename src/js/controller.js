@@ -122,3 +122,4 @@ const init = function () {
 init();
 
 console.log('test');
+console.log('test2');
